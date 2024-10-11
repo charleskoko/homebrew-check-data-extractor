@@ -1,9 +1,9 @@
 class CheckDataExtractor < Formula
   desc "Allows retrieving transaction information from the database."
   homepage "https://github.com/charleskoko/check-data-extractor"
-  url "https://github.com/charleskoko/check-data-extractor/archive/refs/tags/v1.2.6.tar.gz"
-  sha256 "be277587cbf056af4ecb84740b70662ee2ee2bbe890a90ded47cd744ef4d1229"
-  version "1.2.6"
+  url "https://github.com/charleskoko/check-data-extractor/archive/refs/tags/v1.2.7.tar.gz"
+  sha256 "b02b8fed6ad001e609af77e4a580ffa80e0e401e471eea5e3bf9c2cbabe3986a"
+  version "1.2.7"
 
   depends_on "php"
 
